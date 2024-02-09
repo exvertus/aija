@@ -1,0 +1,2 @@
+# aija
+AI Job Assistant
